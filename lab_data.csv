@@ -1,0 +1,321 @@
+Group number,Name,Surname,Sample number,Concentration surfactant (%),Rotation speed (rpm),Time (min),Creaming,Phase separation,Avg diameter - µm (DAY 0),Std dev - µm,Avg diameter - µm (2 WEEKS),Std dev - µm,Note
+1,Nikhil,Patani,1.1,0.1,2500,1,N,Y14,41.96,63.65,N/A,N/A,
+1,Nikhil,Patani,1.2,0.5,2500,3,N,N,17.27,22.54,N/A,N/A,
+1,Dinoajan ,Mohan,1.1,0.1,2500,1,Y,Y1,17.8,9.2,N/A,N/A,
+1,Dinoajan ,Mohan,1.2,0.5,2500,3,Y,Y1,13.4,33.9,N/A,N/A,
+1,Gracia Tshiota,,1.1,0.1,2500,1,Y,Y1,17.2,21.4,N/A,N/A,
+1,Gracia Tshiota,,1.2,0.5,2500,3,Y,Y1,13.4,18.6,N/A,N/A,
+2,David,Mrazik,2.1,0.1,2000,5,Y,Y2,5.35,1.71,N/A,N/A,"Sample had disctinct areas with larger, smaller and no droplets. Data is from the area with smaller droplet size as this was most dominant. Thick interfaces (even with 10x mag)."
+2,David,Mrazik,2.2,0.3,3500,5,N,N,6.62,2.24,N/A,N/A,Creaming from day 5. Thick interfaces (even with 10x mag).
+3,Bilal,Elamin,3.1,0.3,2500,5,N,Y13,8.4,4.1,N/A,N/A,"Interface of the droplets in the image was thick, so actual droplet size may be larger than recorded"
+3,Bilal,Elamin,3.2,0.7,3500,3,N,N,14.9,4.5,N/A,N/A,"Interface of the droplets in the image was thick, so actual droplet size may be larger than recorded"
+4,Ayuub,Mohomed,4.1,0.5,3500,1,Y,Y1,12.03,4.37,N/A,N/A,
+4,Ayuub,Mohomed,4.2,0.7,1500,3,N,Y1,12.9,6.04,N/A,N/A,
+4,Marcus ,Yeow,4.1,0.5,3500,1,Y,Y1,8.94,5.54,N/A,N/A,
+4,Marcus ,Yeow,4.2,0.7,1500,3,Y,Y1,13.2,6.02,N/A,N/A,
+4,Daniel,Thomas,4.1,0.5,3500,1,Y,Y1,8.56,4.31,N/A,N/A,
+4,Daniel ,Thomas,4.2,0.7,1500,3,Y,Y1,3.58,3.41,N/A,N/A,
+5,Justin,Kempes,5.2,0.3,3500,3,N,N,10.24,8.07,N/A,N/A,Small signs of creaming after 1 minute
+5,Justin,Kempes,5.1,0.7,2000,3,N,Y1,22.1,12.04,N/A,N/A,No signs of creaming
+5,Sarah,Winstone-Partridge,5.1,0.7,2000,3,N,Y2,12.78,7.73,,,Thick interfaces for most drops
+5,Sarah,Winstone-Partridge,5.2,0.3,3500,3,N,Y14,16.54,13.44,,,"Thick interfaces for most drops, sample only turned clear on day 14 although 2 sections were observed after the first hour"
+5,Ben,Monk,5.1,0.7,2000,3,N,N,12.8,8.6,N/A,N/A,
+5,Ben,Monk,5.2,0.3,3500,3,N,N,18,30.6,N/A,N/A,
+6,Milan ,Rajpara,6.1,0.1,2500,5,Y,N,30.92,21.46,N/A,N/A,
+6,Milan ,Rajpara ,6.2,0.3,2500,3,Y,N,25.62,12.8,N/A,N/A,
+6,Jon,Espinoza,6.1,0.1,2500,5,Y,N,25.49,22.25,N/A,N/A,
+6,Jon,Espinoza,6.2,0.3,2500,3,Y,N,20.76,14.95,N/A,N/A,
+7,Fraser,Nunns,7.1,0.5,2000,5,Y,N,21.96,13.91,,,
+7,Fraser,Nunns,7.2,0.1,2000,3,Y,N,4.4,6.89,,,"droplets very disperse, 1 or 2 large droplets per image"
+8,Eeseen,Ho ,8.1,0.5,1500,5,Y,Y3,32.6,10.57,N/A,N/A,
+8,Eeseen,Ho ,8.2,0.7,2000,1,Y,Y3,37.8,19.1,N/A,N/A,
+8,Danqing,Wei,8.1,0.5,1500,5,Y,Y3,37.7,11.7,,,
+8,Danqing,Wei,8.2,0.7,2000,1,Y,Y3,34.2,20.6,,,
+8,Jasdeep,Seira,8.1,0.5,1500,5,Y,N,25.6,16.1,N/A,N/A,
+8,Jasdeep,Seira,8.2,0.7,2000,1,Y,N,21.7,18.1,N/A,N/A,
+9,Bryan,Ong,9.1,0.7,2500,1,N,N,5.022,3.517,N/A,N/A,"Sample Image data was not clear, many droplets was not detected by the software, so droplets data will be an underestimate"
+9,Bryan,Ong,9.2,0.1,3500,3,N,N,4.509,4.336,N/A,N/A,"Sample Image data was not clear, many droplets was not detected by the software, so droplets data will be an underestimate"
+9,Jeevan,Bansel,9.1,0.7,2500,1,N,Y1,5.92,5.35,N/A,N/A,
+9,Jeevan,Bansel,9.2,0.1,3500,3,N,Y1,5.87,2.89,N/A,N/A,
+9,Hector,Chiu,9.1,0.7,2500,3,N,N,4.81,5.32,N/A,N/A,Image bubbles have thick outline area will be underestimated
+9,Hector,Chiu,9.2,0.1,3500,1,N,N,5.34,4.02,N/A,N/A,Image bubbles have thick outline area will be underestimated
+10,Tobias,Howe,10.1,0.5,1500,3,N,Y1,21.66,29.26,N/A,N/A,
+10,Tobias,Howe,10.2,0.1,3500,1,Y,Y1,9.56,10.64,N/A,N/A,
+10,Josie ,Vincent-Newson,10.1,0.5,1500,3,N,Y1,20.6,10.43,N/A,N/A,
+10,Josie ,Vincent-Newson,10.2,0.1,3500,1,Y,Y1,15.26,11.72,N/A,N/A,
+10,Shiran ,Wang,10.1,0.5,1500,3,N,Y1,11.35,9.63,N/A,N/A,
+10,Shiran ,Wang,10.2,0.1,3500,1,Y,Y1,13.79,17.24,N/A,N/A,
+11,Ben,Jenkins,11.1,0.3,2000,1,Y,Y3,13.7,6.41,N/A,N/A,
+11,Ben,Jenkins,11.2,0.5,3000,3,Y,Y5+,11.1,5.32,N/A,N/A,Sample was dropped but hadn't completely phase seperated by day 5 so I can only conclude the phase seperation takes longer than 5 days.
+11,Muhammad,Shabir,11.1,0.3,2000,1,Y,N,9.1,2.7,N/A,N/A,
+11,Muhammad,Shabir,11.2,0.5,3000,3,Y,N,13.8,5.7,N/A,N/A,
+11,Joel,Staeger,11.1,0.3,2000,1,Y,Y3,10.3,7.1,N/A,,
+11,Joel,Staeger,11.2,0.5,3000,3,Y,Y5,14.1,4.6,N/A,,
+12,Cara,Anderton,12.1,0.3,3000,1,N,N,48.67,20.94,,,Creaming occured on day 1 but no distinct phase separation after 14 days
+12,Cara ,Anderton,12.2,0.3,3000,3,N,N,15.03,23.15,,,Creaming occured on day 1 but no distinct phase separation after 14 days
+12,Osama,Al Hassani,12.1,0.3,3000,1,Y1,N,51.8,51.1,N/A,N/A,
+12,Osama,Al Hassani,12.2,0.3,3000,3,N,N,15.5,27.3,N/A,N/A,
+12,Safa,Al-Naamani,12.1,0.3,3000,1,N,N,35.4,33.4,N/A,N/A,Creaming occured on day 1
+12,Safa,Al-Naamani,12.2,0.3,3000,3,N,N,28.8,19.44,N/A,N/A,Creaming occured on day 1
+15,Naru ,George,2,0.1,3500,5,N,N,11.3,3.5,N/A,N/A,Phase separation very slight.
+15,Naru ,George,1,0.5,3000,1,Y,N,20.0,13.8,N/A,N/A,Not sufficient mixing of phases in the first place.
+12,Dhivya,Ganesen,12.1,0.3,3000,1,N,N,26.18,29.84,N/A,N/A,
+12,Dhivya,Ganesen,12.2,0.3,3000,3,N,N,30.04,30.68,N/A,N/A,
+13,Simran ,Lalli,13.1,0.7,3000,1,N,Y1,18.3,9.27,N/A,N/A,
+13,Simran ,Lalli,13.2,0.1,3000,1,N,Y1,31.8,11.1,N/A,N/A,
+13,Abdullah,Alshahri,13.1,0.7,3000,1,N,N,7.98,3.21,N/A,N/A,Thick interfaces for most drops and some overlap which underestimate the avg. diameter
+13,Abdullah,Alshahri,13.2,0.1,3000,1,N,N,21.9,7.89,N/A,N/A,Thick interfaces for most drops and slightly blurry image
+13,Usaamah,Ahmed,13.1,0.7,3000,1,N,N,17.1,9.57,N/A,N/A,
+13,Usaamah,Ahmed,13.2,0.1,3000,1,N,N,6.45,2.98,N/A,N/A,
+14,Zachary,Howdle,14.1,0.1,1500,1,Y,Y1,41.47,66.62,N/A,N/A,"Droplets appear small on scale, possible blurring with thick edges and gaps."
+14,Zachary,Howdle,14.2,0.1,3000,5,N,Y1,7.95,3.73,N/A,N/A,
+15,Dehua,Hou,15.1,0.5,3000,1,Y,N,15.69,7.56,N/A,N/A,
+15,Dehua,Hou,15.2,0.1,3500,5,N,N,11.2,3.82,N/A,N/A,
+15,Cameron,Bowie,15.1,0.5,3000,1,Y,N,15.97,16.32,N/A,N/A,
+15,Cameron,Bowie,15.2,0.1,3500,5,N,N,5.921,2.482,N/A,N/A,
+16,Ziqi,Wang,16.1,0.5,3500,5,N,Y1,13.91,9.54,N/A,N/A,
+16,Ziqi,Wang,16.2,0.5,2000,1,Y,Y1,54.93,31.96,N/A,N/A,Very few droplets could be seen in Sample2
+16,Lorenzo,Tamburello,16.1,0.5,3500,5,N,N,7.1,2.82,N/A,N/A,
+16,Lorenzo,Tamburello,16.2,0.5,2000,1,Y,N,12.9,20.3,N/A,N/A,Only a few droplets analysed
+16,Rita,Efiannayi,16.1,0.5,3500,5,N,Y1,13.4,16.9,N/A,N/A,
+16,Rita,Efiannayi,16.2,0.5,2000,1,Y,Y1,49.7,4.12,N/A,N/A,
+17,Ahmed,AlEid,17.1,0.3,3500,1,N,Y1,40.56,1.42,N/A,N/A,
+17,Ahmed,AlEid,17.2,0.5,2500,5,N,Y1,80.2,4.1,N/A,N/A,
+17,James,Cox,17,0.3,3500,1,N,Y1,40.7,1.46,N/A,N/A,
+17,James,Cox,17.2,0.5,2500,5,N,Y1,81,4.3,N/A,N/A,
+17,Haris,Riaz,23.2,0.1,1500,3,Y,Y1,74.1,34.5,N/A,N/A,
+17,Haris,Riaz,23.1,0.5,1500,1,Y,Y1,14.1,20.2,N/A,N/A,
+18,Mansi ,Chhaparwal,18.1,0.7,1500,1,Y,N,25.4,13.8,N/A,N/A,
+18,Mansi ,Chhaparwal,18.2,0.5,2500,1,N,N,16.16,5.4,N/A,N/A,
+18,Zehra ,Jazim Ali,18.1,0.7,1500,1,N,Y1,7.35,1.41,N/A,N/A,
+18,Zehra ,Jazim Ali,18.2,0.5,2500,1,Y,Y1,12.1,43.75,N/A,N/A,
+18,James,Hughes,18.1,0.7,1500,1,Y,Y1,6.12,5.36,N/A,N/A,
+18,James,Hughes,18.2,0.5,2500,1,Y,Y1,46,136.22,N/A,N/A,
+19,Varshika,Selvarajah,19.1,0.1,2000,1,N,Y1,19.56,10.85,N/A,N/A,
+19,Varshika,Selvarajah,19.2,0.1,1500,5,N,Y1,35.06,23.44,N/A,N/A,
+19,Jessica,Yung,19.1,0.1,2000,1,N,N,15.2,9.72,N/A,N/A,
+19,Jessica,Yung,19.2,0.1,1500,5,N,N,21.3,23.5,N/A,N/A,
+20,Jessica,Ward,20.2,0.1,2500,3,Y,Y1,34.93,14.6,N/A,N/A,
+20,Jessica,Ward,20.1,,1500,5,Y,Y1,34.4,24.22,N/A,N/A,
+20,Jacob,Twentyman,20.1,0.3,1500,5,Y,N,40.6,24.6,N/A,N/A,
+20,Jacob,Twentyman,20.2,0.1,2500,3,N,N,30,16.8,N/A,N/A,Sample Creamed before the end of the day on which it was made
+20,Tom,Middleton,20.1,0.3,1500,5,Y,Y1,26.7,14.5,,,
+20,Tom,Middleton,20.2,0.1,2500,3,N,Y1,39.1,17.8,,,
+21,Sushir,Kanumakala,21.1,0.3,2000,3,Y,N,36.1,29.9,N/A,N/A,
+21,Sushir,Kanumakala,21.2,0.3,1500,1,Y,N,38.9,44.7,N/A,N/A,
+21,Jake,O'Neill,21.1,0.3,2000,3,Y,N,46.5,43.1,,,
+21,Jake,O'Neill,21.2,0.3,1500,1,Y,N,55.8,1.8,,,
+21,Andrei,Nicusan,21.1,0.3,2000,3,Y,N,43.27535545,34.63305235,N/A,N/A,
+21,Andrei ,Nicusan,21.2,0.3,1500,1,Y,N,52.18055867,58.57804335,N/A,N/A,
+22,Faith,Husbands,22.1,,2000,3,N,N,22.76,19.67,31.04,9.23,
+22,Faith,Husbands,22.2,,2500,3,N,N,56.22,53.21,,,
+22,White,Alexandra,22.1,0.3,2500,1,N,N,40.8,20.2,N/A,N/A,
+22,White,Alexandra,22.2,0.5,3000,5,N,N,46.6,21.1,N/A,N/A,
+22,Yaxin,Chen,22.1,0.3,2500,1,N,N,39.14,10.6,N/A,N/A,
+22,Yaxin,Chen,22.2,0.5,3000,5,N,N,64.43,12.34,N/A,N/A,
+22,Dinh Tri,Nguyen,22.1,0.3,2500,1,N,Y1,40.9,18.10,N/A,N/A,
+22,Dinh Tri,Nguyen,22.2,0.5,3000,5,N,Y1,50.50,23.3,N/A,N/A,
+23,Muhammad Haekal,Ghifari,23.2,0.1,1500,3,Y,N,9.98,8.66,N/A,N/A,
+23,Muhammad Haekal,Ghifari,23.1,0.5,1500,1,Y,N,50.12,43.39,N/A,N/A,
+23,Zain,Shamsi,23.2,0.1,1500,3,Y,Y14+,74.2,34.5,N/A,N/A,
+23,Zain,Shamsi,23.1,0.5,1500,1,Y,Y1,14.2,20.3,N/A,N/A,Only image data for around 30 droplets could be captured
+24,Sharon,Adewusi,24.1,0.7,3000,3,Y,Y1,18.75,8.76,,,
+24,Sharon,Adewusi,24.2,0.7,1500,3,N,Y1,19.03,131.7,,,
+24,Whitehouse,Natalie,24.1,0.7,3000,3,N,N,23.7,6.6,N/A,N/A,
+24,Whitehouse,Natalie,24.2,0.7,1500,3,N,Y1,9.3,5.5,N/A,N/A,
+24,Teng Guan,Lai,24.1,0.7,3000,3,Y,Y1,32.4,0.508,,,
+24,Teng Guan,Lai,24.2,0.7,1500,3,N,Y1,13.07,7.6,,,
+25,Kypros ,Pitsillos ,25.1,0.3,3000,5,N,N,24.8,12.7,N/A,N/A,
+25,Kypros ,Pitsillos ,25.2,0.7,3500,1,N,N,26.7,12.5,N/A,N/A,
+25,Fahmidul,Haque,25.1,0.3,3000,5,Y,Y1,24.8,12.7,N/A,N/A,
+25,Fahmidul,Haque,25.2,0.7,3500,1,Y,Y1,26.7,12.5,N/A,N/A,
+26,Cameron,Muir,26.1,0.1,3000,3,N,N,12.3,5.01,N/A,N/A,Lots of overlap of bubbles in some of the pictures taken. Creamed in  1 day but no phase seperation
+26,Cameron,Muir,26.2,0.7,2500,3,N,N,16,6.52,N/A,N/A,Creamed in 1 day but no phase seperation
+26,Jaxsan ,Sivanesan,26.1,0.1,3000,3,N,N,11.93,10.69,N/A,N/A,
+26,Jaxsan ,Sivanesan,26.2,0.7,2500,3,N,N,13.04,12.81,N/A,N/A,
+27,Joshua,Munday ,27.1,0.3,2000,5,Y,Y1,13.16,10.55,N/A,N/A,Droplet edges are thick so the size is an underetimate
+27,Joshua,Munday,27.2,0.5,2000,3,Y,Y1,16.07,13.69,N/A,N/A,
+27,Ajibola,Abiri,27.1,0.3,2000,5,Y,N,13.08,10.49,N/A,N/A,Droplet edge very thick so size is a greater underestimate. Liquid remains slightly cloudy after several weeks
+27,Ajibola,Abiri,27.2,0.5,2000,3,Y,N,12.42,13.82,N/A,N/A,
+27,Tanika,Hinds,27.1,0.3,2000,5,Y,N,13.2,5.48,N/A,N/A,"Creamed on the first day and has remained so for several weeks, thick droplet edges so likely underestimation, small sample size many droplets not registered, 10X magnification used"
+27,Tanika,Hinds,27.2,0.5,2000,3,N,N,11.4,4.86,N/A,N/A,"Creamed on day 3 and has remianed so for several weeks, thick droplet edges so likey underestimation, small sample size, 10X magnification used, wide distrubution of droplets"
+28,Jacob,Richardson,28.2,0.5,3500,3,N,Y2,38.93,25.42,-,-,
+28,Hamish,Packham,28.1,0.3,1500,3,Y,Y1,32.3,4.8,N/A,N/A,"Very few bubbles showing, unable to get a larget set of data. Manual approach used"
+28,Hamish,Packham,28.2,0.5,3500,3,N,Y2,28.9,5.15,N/A,N/A,Thick bubble boundaries. Diameter likely an underestimate 
+28,Mark,Pyman,28.1,0.3,1500,3,Y,Y1,13,6.52,N/A,N/A,"Thick interface, so likely underestimate of average diameter. Few bubbles so small sample size"
+28,Mark,Pyman,28.2,0.5,3500,3,N,Y2,8.87,3.55,N/A,N/A,"Thick interface, so likely underestimate of average diameter"
+28,Wai ,Ng,28.1,0.3,1500,3,Y,Y10,N/A,N/A,N/A,N/A,Only very few droplets in image so unable to obtain statistical relevance from the small range of values (Talked to Dr Vigolo about this and he said to put N/A in size and std dev)
+28,Wai ,Ng,28.2,0.5,3500,3,N,N,25.6,5.19,N/A,N/A,
+29,Emil John,Magaway,29.1,0.5,3500,3,,N,3.06,0.81,N/A,N/A,
+29,Emil John,Magaway,29.2,0.3,1500,3,Y,N,10,2.98,N/A,N/A,
+29,Abraham ,Thambu,29.1,0.5,3500,1,,,4.64,2.16,N/A,N/A,
+29,Abraham ,Thambu,29.2,0.3,1500,3,Y,,11.2,3.45,N/A,N/A,
+30,Yash,Gokhale,30.2,0.3,2000,5,Y,Y4,43.96,29.30,N/A,N/A,
+30,Yash,Gokhale,30.1,0.5,2000,3,Y,Y4,32.20,26.18,N/A,N/A,Blurry image may have affected result. S ome droplets not registered by ImageJ software.
+30,LAMK ,ALLAMKI,30.1,0.5,2000,3,N,Y1,15.27,18.9,N/A,,"blurry image ,most droplets not detected by image j"
+30,LAMK ,ALLAMKI,30.2,0.3,2000,5,N,Y1,33,41.9,N/A,N/A,
+30,Craig ,Dent,30.1,0.5,2000,3,Y,Y3,45.5,24,N/A,N/A,
+30,Craig ,Dent,30.2,0.3,2000,5,Y,Y3,52.9,27.8,N/A,N/A,
+30,Maximilian,Fisher,30.1,0.5,2000,3,N,Y1,41.2,25.9,N/A,N/A,"Poor image quality, unable to retake micrographs - software therefore failed to recognise some droplets"
+30,Maximilian,Fisher,30.2,0.3,2000,5,N,Y1,48.2,29.2,N/A,N/A,
+31,Prithvi ,Sachithanandam,31.2,0.1,3000,3,N ,N,27.9,7.12,N/A,N/A,
+31,Prithvi ,Sachithanandam,31.1,0.7,2500,3,N,N,-,-,N/A,N/A,"Very few droplets were seen, there was also a fault with the microscope light that demonstrators couldn't fix so image itself was not good quality "
+31,Zihe,Wang,31.2,0.1,3000,3,N,N,25.06,7.23,N/A,N/A,
+31,Zihe,Wang,31.1,0.7,2500,3,N,N,21.48,7.01,N/A,N/A,the droplets cannot be seen clearly due to the low quality of the image
+31,Odysseas,Petrou,31.1,0.7,2500,3,N,N,-,-,N/A,N/A,"Very few drops caputered, hence ImageJ was unable to detect them. There were issues with the microscope producing very low quality pictures. Phase separation after a day."
+31,Odysseas,Petrou,31.2,0.1,3000,3,N,N,19.9,13.1,N/A,N/A,Phase separation after a day.
+32,Liqiu,Liu,32.1,0.7,3500,1,N,N,35.93,15.48,,,
+32,Liqiu,Liu,32.2,0.3,3000,5,N,N,23.73,11.81,,,
+32,Arundhati,Verma,32.1,0.7,3500,1,Y,N,37.43,14.17,N/A,N/A,
+32,Arundhati,Verma,32.2,0.3,3000,5,Y,N,23.51,9.75,N/A,N/A,
+33,Edward,Downhill,33.1,0.7,1500,3,Y,N,35.5,24.8,,,
+33,Edward,Downhill,33.2,0.7,3000,3,Y,N,8.8,5.9,,,
+33,Imogen,Lamb,33.1,0.7,1500,3,Y,N,58.5,41.36,,,
+33,Imogen,Lamb,33.2,0.7,3000,3,Y,N,22.6,5.68,,,
+34,Sam,Ellis,34.1,0.1,1500,3,N,N,13.9,11.34,N/A,N/A,
+34,Sam,Ellis,34.2,0.5,1500,1,N,N,11.9,10,N/A,N/A,
+34,Harry,Lee,34.1,0.1,1500,3,N,Y1,10.4,2.1,,,
+34,Harry,Lee,34.2,0.5,1500,1,N,Y1,10.38,3.6,,,
+34,Seif,Albarhi,34.1,0.1,1500,3,N,N,13.23,8.34,N/A,N/A,Small number of droplets observed +relatively blurry image
+34,Seif,Albarhi,34.2,0.5,1500,1,N,N,8.97,5.95,N/A,N/A,Thick droplet boundaries
+34,David,Raimbault,34.1,0.1,1500,3,N,Y1,12.9,3.3,N/A,N/A,
+34,David,Raimbault,34.2,0.5,1500,1,N,Y1,12.4,4.5,N/A,N/A,
+35,Nadun,Siriwardana,35.1,0.5,3000,5,N,N,72.8,10.8,N/A,N/A,
+35,Nadun,Siriwardana,35.2,0.1,2500,1,N,N,27.8,14.9,N/A,N/A,Only a few droplets were obtained 
+35,Hilton ,Chiveto,35.1,0.5,3000,5,N,Y1,74.3,9.7,N/A,N/A,
+35,Hilton ,Chiveto,35.2,0.1,1500,1,N,Y1,25.6,15.3,N/A,N/A,Small number of droplets observed
+36,Wei Han ,Tan ,36.1,0.5,1500,1,Y,N,44.236,26.742,N/A,N/A,Limited number of droplets were formed to do analysis due to weak emulsion 
+36,Wei Han ,Tan ,36.2,0.7,2000,3,N,N,64.424,55.166,N/A,N/A,Size of droplets has a significant size of range throughout the emulsion
+37,Tarundeep ,Sandhu ,37.1,0.1,2500,3,N,N,9.48,12.2,,,
+37,Tarundeep ,Sandhu ,37.2,0.3,1500,5,N,N,5.06,2.27,,,
+37,Osama,Alkhateeb,37.1,0.1,2500,3,N,N,8.01,8.83,N/A,N/A,
+37,Osama,Alkhateeb,37.2,0.3,1500,5,N,N,65.3,69.5,N/A,N/A,
+37,Emily,Owen,37.1,0.1,2500,3,N,N,8.62,7.13,N/A,N/A,
+37,Emily,Owen,37.2,0.3,1500,5,N,N,6.6,1.68,N/A,N/A,
+38,Naomi,Davies,38.1,0.7,1500,5,N,N,44.68,29.17,,,
+38,Naomi,Davies,38.2,0.3,2000,1,N,N,57.47,38.93,,,
+38,Toby,Greenwood,38.1,0.5,1500,5,N,Y1,37.9,20.34,N/A,N/A,No creaming after one minute
+38,Toby,Greenwood,38.2,0.1,2000,1,N,Y1,62.1,28.4,N/A,N/A,No creaming after one minute
+38,George,Wells,38.1,0.1,1500,5,N,N,34.2,29.1,N/A,N/A,Did several different thresholds/minimum droplet size for each photo and averaged to ensure smaller droplets weren't missed  
+38,George,Wells,38.2,0.1,2000,1,N,N,46.1,39.9,N/A,N/A,Did several different thresholds/minimum droplet size for each photo and averaged to ensure smaller droplets weren't missed  
+39,Douglas,Wescott,39.1,0.5,2500,1,N,N,9.65,11.79,N/A,N/A,
+39,Douglas,Wescott,39.2,0.7,1500,1,Y,N,34.68,54.17,N/A,N/A,"No concentrated area of bubbles, v.wide distribution"
+39,Aaron,Mensah-Afoakwah,39.1,0.5,2500,1,N,N,13.52,11.96,N/A,N/A,Creaming after a few minutes. Thick edges in images
+39,Aaron,Mensah-Afoakwah,39.2,0.7,1500,1,Y,N,39.13,55.81,N/A,N/A,Only a few drops captured in images
+39,William,Jayapratama,39.1,0.5,2500,1,N,N,10.74,11.45,N/A,N/A,Creaming after 1.5 minutes. Thick droplet edges.
+39,William,Jayapratama,39.2,0.7,1500,1,Y,N,40.46,61.12,N/A,N/A,ImageJ did not register some droplets
+40,Leon,Taki-Officer,40.1,0.5,2500,5,N,Y1,32.84,26.93,,,
+40,Leon,Taki-Officer,40.2,0.3,3500,1,N,Y1,13.47,17.85,,,
+40,Wei Mun,Lim,40.1,0.5,2500,5,N,N,27.1,13.6,N/A,N/A,
+40,Wei Mun,Lim,40.2,0.3,3500,1,N,N,30.8,16.4,N/A,N/A,
+41,Raya,Sardar,41.1,0.5,2000,1,Y,N,27.7,7.14,,,
+41,Raya,Sardar,41.2,0.5,3500,5,N,N,6.93,3.72,,,
+41,Maryam,Albalushi,41.1,0.5,2000,1,Y,N,18.29,13.47,N/A,,
+41,Maryam,Albalushi,41.2,0.5,3500,5,N,N,9.72,6.77,N/A,,
+41,Luke,Reilly,41.1,0.5,2000,1,Y,N,18.65,16.15,,,
+41,Luke,Reilly,41.2,0.5,3500,5,N,N,10.33,11.39,,,
+42,Xiaobu,Shao,42.1,0.1,3500,5,N,N,7.47,3.67,N/A,N/A,Few droplets can be analysed.
+42,Xiaobu,Shao,42.2,0.5,3000,1,N,N,14.35,3.79,N/A,N/A,
+43,Tyler,Woodstock,43.1,0.1,3000,5,N,N,20.52,6.42,-,-,
+43,Tyler,Woodstock,43.2,0.1,1500,1,Y,N,10.57,9.91,-,-,Creaming took place after 2 minutes
+43,Jialin,Gu,43.1,0.1,3000,5,N,N,16.61,5.67,N/A,N/A,
+43,Jialin,Gu,43.2,0.1,1500,1,Y,N,7.42,2.87,N/A,N/A,the creaming takes more than 1 minutes but still quick.
+43,David,Lee,43.1,0.1,3000,5,N,Y2,34.9,13.7,N/A,N/A,
+43,David,Lee,43.2,0.1,1500,1,N,Y5,13.5,12.95,N/A,N/A,
+44,Jarguz,Patryk,44.1,0.1,3000,1,N,N,62.95,24.75,,,
+44,Jarguz,Patryk,44.2,0.7,3000,1,N,N,72.35,33.25,,,
+44,Edwards,Abigail,44.1,0.1,3000,1,N,N,26.64,8.26,,,
+44,Edwards,Abigail,44.2,0.7,3000,1,N,N,24.55,11.79,,,
+40,Genevieve,Clifford,40.1,0.5,2500,5,N,Y2,37.73,36.32,N/A,N/A,
+40,Genevieve,Clifford,40.2,0.3,3500,1,N,Y2,16.22,15.61,N/A,N/A,
+44,Kwabena,Tieku-Apawu,41.1,0.5,2000,1,Y,N,20.4,9.9,N/A,,
+44,Kwabena,Tieku-Apawu,41.2,0.5,3500,5,Y,N,7,2.7,N/A,,
+44,Islam,Lidia,44.1,0.1,3000,1,N,N,32.5,7.4,N/A,N/A,
+44,Islam,Lidia,44.2,0.7,3000,1,N,N,37.1,11.1,N/A,N/A,
+45,Pengsen,Luo,45.1,0.3,3000,3,Y1,N,12.17,2.34,N/A,N/A,
+45,Pengsen,Luo,45.2,0.3,3000,1,Y1,N,23.7,6.68,N/A,N/A,
+45,Simaren,Tamae,45.1,0.3,3000,3,N,Y1,12.21,2.41,N/A,N/A,
+45,Simaren,Tamae,45.2,0.3,3000,1,N,Y1,23.9,6.85,N/A,N/A,
+46,Laura,Titheridge,46.1,0.5,3000,3,N,Y1,13.64,253.05,,,"Thick droplet edges, so the size is an underestimate"
+46,Laura,Titheridge,46.2,0.3,2000,1,N,Y1,18.3,310.75,,,
+46,Anya ,Paton,46.1,0.5,3000,3,N,Y1,24.7,9.35,,,
+46,Anya ,Paton,46.2,0.3,2000,1,N,Y1,19.8,12.53,,,
+46,Jasmine,Sagoo,46.1,0.5,3000,3,N,Y1,13.6298697,5.53755305,,,
+46,Jasmine ,Sagoo,46.2,0.3,2000,1,N,Y1,23.0239366,13.1604456,,,
+36,Li Leon,Chua,36.1,0.3,1500,1,Y,N,40.76,113.09,N/A,N/A,Only a few clear small droplets is seen
+36,Li Leon,Chua,36.2,0.3,2000,3,N,N,68.96,65.81,N/A,N/A,Overlapping of many small droplets in larger droplets is seen
+46,Oliver,Martin,53.2,0.5,3500,1,N,N,14.58,22.91,N/A,N/A,Average thickness border but many droplets not picked up by software (perhaps due to specs inside of the droplets?). Sample creamed but much after 1 min limit.
+46,Oliver,Martin,53.1,0.7,1500,3,N,N,19.08,18.37,N/A,N/A,Larger border thickness than previously but good number of droplets picked up. Sample creamed but much after 1 min limit.
+14,Abdullah,Taj,14.1,0.1,1500,1,Y,Y1,41.47,66.62,N/A,N/A,Droplets are quite small on scale
+14,Abdullah,Taj,14.2,0.1,3000,5,N,Y1,7.95,3.73,N/A,N/A,
+47,Luke,Tatman,47.1,0.1,3500,1,N,Y1,13.76,7.81,N/A,N/A,
+47,Luke,Tatman,47.2,0.5,1500,3,N,Y1,5.59,6.34,N/A,N/A,
+47,Mahmood,Niniola,47.1,0.1,3500,1,N,N,13.25,6.41,N/A,N/A,
+47,Mahmood,Niniola,47.2,0.5,1500,3,N,N,4.73,6.15,N/A,N/A,
+47,Radhwan,Al-Abri,47.1,0.1,3500,1,N,Y1,13.24,7.49,N/A,N/A,
+47,Radhwan,Al-Abri,47.2,0.5,1500,3,Y,Y1,5.46,6.27,N/A,N/A,Weak emulsion and droplet are quite small on scale. 
+17,J Han,Loh,17.1,0.3,3500,1,N,N,41.2039,1.51,N/A,N/A,
+17,J Han,Loh,17.2,0.5,2500,5,N,N,84.62,3.82,N/A,N/A,
+48,Jacob,Richardson,28.1,0.3,1500,3,Y,Y1,N/A,N/A,-,-,"No droplets, emulsion weak"
+48,Omid,Mirkhalaf,26.1,0.1,3000,3,N,Y1,12.34,4.82,N/A,N/A,
+48,Omid,Mirkhalaf,26.2,0.7,2500,3,Y,Y1,16.03,6.44,N/A,N/A,Creaming in less than 20 seconds
+48,William,O'Farrell,48.1,0.1,3500,3,N,Y4,11.4,4.87,N/A,N/A,Thick interfaces
+48,William,O'Farrell,48.2,0.7,2500,1,N,Y3,26.8,11.5,N/A,N/A,Thick interfaces
+48,Daniel,Kgautlhe,48.1,0.1,3500,3,N,N,11.9,11,N/A,N/A,
+48,Daniel,Kgautlhe,48.2,0.7,2500,1,N,N,18,20.1,N/A,N/A,
+48,Amy,Bowers,48.1,0.1,3500,3,N,Y1,11.73,10.44,,,
+48,Amy ,Bowers,48.2,0.7,2500,1,N,Y1,19.72,16.49,,,
+49,Jake,Yip,49.2,0.5,1500,5,N,N,20.6,17.3,N/A,N/A,
+49,Jake,Yip,49.1,0.7,2000,1,N,N,40.6,27.9,N/A,N/A,
+49,Saqib,Zafar,49.1,0.7,2000,1,N,N,39.96,24.43,N/A,N/A,
+49,Saqib,Zafar,49.2,0.5,1500,5,N,N,14.9,6.44,N/A,N/A,
+49,Bryan,Phang,36.1,0.3,1500,1,Y,Y1,40.76,113.09,N/A,N/A,Some small droplets can be seen
+49,Bryan,Phang,36.2,0.3,2000,3,N,Y1,68.96,65.81,N/A,N/A,Small and large droplets distributed
+49,Lina,Stern,49.1,0.7,2000,1,N,Y1,12.85,5.38,,,
+49,Lina,Stern,49.2,0.5,1500,5,N,Y1,5.94,1.9,,,
+50,Bea,Holloway,50.1,0.1,2000,3,Y,N,96.3,66.1,,,
+50,Bea,Holloway,50.2,0.5,2000,5,Y,N,29.9,17.28,,,
+50,Anjli ,Pankhania,50.1,0.1,2000,3,Y,N,69.64,18.91,,,
+50,Anjli ,Pankhania,50.2,0.5,2000,5,Y,N,26.52,15.96,,,
+50,Oscar,Oliphant,50.1,0.1,2000,3,Y,N,82.7,59.63,N/A,N/A,
+50,Oscar,Oliphant,50.2,0.5,2000,5,Y,N,28.22,20.2,N/A,N/A,
+51,Jia Rhen,Loo,51.2,0.1,2500,5,Y,Y1,26.06,19.5,N/A,N/A,
+51,Jia Rhen,Loo,51.1,0.3,2500,3,Y,Y1,12.52,7.23,N/A,N/A,
+51,Chongli,Xing,51.1,0.3,2500,3,N,N,47.88,19.48,N/A,N/A,The edge of droplet in the picture is very thick. The diameter been under estimate
+51,Chongli,Xing,51.2,0.1,2500,5,N,N,76.72,47.63,N/A,N/A,The edge of droplet in the picture is very thick. The diameter been under estimate
+52,Hakan,Bas,52.1,0.3,3500,3,N,N,6.72,1.82,,,
+52,Hakan,Bas,52.2,0.7,2000,3,N,N,18.1,9.4,,,
+52,Emily,Poole,52.1,0.3,3500,3,N,N,6.09,1.82,N/A,N/A,
+52,Emily,Poole,52.2,0.7,2000,3,N,Y3,19.3,9.03,N/A,N/A,
+52,Muhammad,Rahman,52.1,0.3,3500,3,N,Y1,6.6,1.83,N/A,N/A,
+52,Muhammad,Rahman,52.2,0.7,2000,3,N,Y1,18.2,9.03,N/A,N/A,
+53,Krishan,Mistry,53.2,0.5,3500,1,N,N,10.72,24.75,,,
+53,Krishan,Mistry,53.1,0.7,1500,3,N,N,31.9,14.07,,,
+53,James,Haines,53.1,0.5,3500,1,N,N,28.65,23.08,NA,NA,
+53,James,Haines,53.2,0.7,1500,3,N,N,11.83,9.527,NA,NA,
+54,Rachael,Summersfield,54.1,0.7,3500,3,Y,N,8.56,7.71,N/A,N/A,Droplet edges thick so size is an underestimate.
+54,Rachael,Summersfield,54.2,0.3,2500,5,Y,N,24.27,43.67,N/A,N/A,"Droplet edges very thick due to trouble focusing image so size is an underestimate, some droplet overlap in image leading to analysis of only a small number of droplets."
+54,Edward ,Jenkinson,54.1,0.7,3500,3,Y,N,12.92,7.56,,,
+54,Edward,Jenkinson,54.2,0.3,2500,5,Y,N,34.35,18.21,,,Underestimate!
+54,Ranvir Singh,Dhaliwal,54.1,0.7,3500,3,Y,N,29.87,7.76,N/A,N/A,
+54,Ranvir Singh,Dhaliwal,54.2,0.3,2500,5,Y,N,113.32,32.21,N/A,N/A,
+54,Mohammed ,Younis,54.1,0.7,3500,3,Y,N,11.93,7.77,,,
+54,Mohammed ,Younis,54.2,0.3,2500,5,Y,N,30.07,20.24,,,
+55,Favour,Nnaji,55.1,0.3,3500,5,N,Y1,25.1,7.66,N/A,N/A,
+55,Favour,Nnaji,55.2,0.1,2000,5,N,Y1,17.8,10.15,N/A,N/A,
+55,Harry,Daniels,55.2,0.1,2000,5,N,N,19.42,13.6,,,Underestimate
+55,Harry,Daniels,55.1,0.3,3500,5,N,N,36.1,9.66,,,
+55,Rory,Scott,55.1,0.3,3500,5,N,N,18.5,8.97,N/A,N/A,Droplet edge very thick so size is a greater underestimate. Creaming occured in first day. Water phase remains slightly cloudy 
+55,Rory,Scott,55.2,0.1,2000,5,N,N,11.2,11.37,N/A,N/A,Creaming occured in first day. Water phase remains completely clear
+56,Jawairiya,Tanveer,56.1,0.5,2500,3,Y,N,18.1,11.8,,,
+56,Jawairiya,Tanveer,56.2,0.1,2500,1,Y,N,66.98,43.1,,,
+56,Keerthiya,Umathevan,56.1,0.5,2500,3,Y,N,62.5,57.8,,,
+56,Keerthiya,Umathevan,56.2,0.1,2500,1,Y,N,53.8,39.8,,,
+56,Geraint,Phillips,56.1,0.5,2500,3,N,Y1,17.85,14.36,N/A,N/A,
+56,Geraint,Phillips,56.2,0.1,2500,1,N,Y1,48.83,49.29,N/A,N/A,
+56,Zeyad,AlAamer,56.1,0.5,2500,3,N,Y1,17.17,5.39,N/A,N/A,
+56,Zeyad,AlAamer,56.2,0.1,2500,1,N,Y1,53.64,12.64,N/A,N/A,
+6,Jamini ,Gorasia ,6.1,0.1,2500,5,Y,N,22.33,21.46,N/A,N/A,
+6,Jamini,Gorasia,6.2,0.3,2500,3,Y,N,21.24,12.75,N/A,N/A,
+7,Katherine,Birch,7.1,0.5,2000,5,Y,N,24.58,11.04,N/A,N/A,
+7,Katherine,Birch,7.2,0.1,2000,3,Y,N,5,7.92,N/A,N/A,
